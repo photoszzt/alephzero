@@ -1,3 +1,5 @@
+#define _BSD_SOURCE
+#define _DEFAULT_SOURCE
 #include <a0/arena.h>
 #include <a0/buf.h>
 #include <a0/empty.h>
